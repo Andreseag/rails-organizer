@@ -32,6 +32,8 @@ gem "simple_form"
 gem "annotate"
 gem "rails-i18n"
 gem "devise"
+gem "cocoon"
+gem 'jquery-rails'
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
